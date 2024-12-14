@@ -35,7 +35,7 @@ Mesa - for agent-based simulations: https://mesa.readthedocs.io/stable/
 - Matplotlib       : 3.9.2
 ```
 ## Run Instructions
-The results are already committed with the notebooks in the current repository.
+The results are already committed into the current repository.
 
 To confirm these results, feel free to run locally with the following instructions:
 
