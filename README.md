@@ -2,7 +2,7 @@
 
 This is a project completed for the Social Computing and Decentralized Artificial Intelligence graduate course at North Carolina State University, completed as a group with Christopher Elchik, Zackary Haugan, and Ethan Telep. We created simulations with adjustable parameters to model the 'Overnight Trend' phenomenon with a graph of autonomous agents, based on real-life social networks.
 
-[Link to paper where we discussed our results](https://github.com/ChristopherElchik/Trend-Modeling/blob/739ecd379ed240a99b23c4abdc03feb2451f2271/cwelchik.pdf)
+[Link to paper where we discussed all details of the simulation and our results](https://github.com/ChristopherElchik/Trend-Modeling/blob/739ecd379ed240a99b23c4abdc03feb2451f2271/cwelchik.pdf)
 
 ## Datasets
 Facebook Networks (from Stanford's SNAP Lab): https://data.world/socialmediadata/social-circles-from-facebook
