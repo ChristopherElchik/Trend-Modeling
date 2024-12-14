@@ -35,9 +35,9 @@ Mesa - for agent-based simulations: https://mesa.readthedocs.io/stable/
 - Matplotlib       : 3.9.2
 ```
 ## Run Instructions
-To see the results, feel free to check our respository at https://github.ncsu.edu/cwelchik/csc555_project
+The results are already committed with the notebooks in the current repository.
 
-Otherwise:
+To confirm these results, feel free to run locally with the following instructions:
 
 - Ensure all above dependencies are installed
 - Open pipeline.ipynb
